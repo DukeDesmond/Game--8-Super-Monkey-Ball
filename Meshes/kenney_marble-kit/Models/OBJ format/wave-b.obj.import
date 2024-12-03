@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://r8g4g6aw2m21"
+path="res://.godot/imported/wave-b.obj-ac11386cd02f35b05047ef95d518c11a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wave-b.obj-ac11386cd02f35b05047ef95d518c11a.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/wave-b.obj"
+dest_files=["res://.godot/imported/wave-b.obj-ac11386cd02f35b05047ef95d518c11a.mesh", "res://.godot/imported/wave-b.obj-ac11386cd02f35b05047ef95d518c11a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dflrsiao3ru0o"
+path="res://.godot/imported/banner-hanging-high.obj-beff0f22682b8e3e9c59fee6d034d175.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner-hanging-high.obj-beff0f22682b8e3e9c59fee6d034d175.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/banner-hanging-high.obj"
+dest_files=["res://.godot/imported/banner-hanging-high.obj-beff0f22682b8e3e9c59fee6d034d175.mesh", "res://.godot/imported/banner-hanging-high.obj-beff0f22682b8e3e9c59fee6d034d175.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

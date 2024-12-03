@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://buflvqya4f3c6"
+path="res://.godot/imported/fan-two.obj-9673b4c110bed2db447ecf1ad4342584.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fan-two.obj-9673b4c110bed2db447ecf1ad4342584.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/fan-two.obj"
+dest_files=["res://.godot/imported/fan-two.obj-9673b4c110bed2db447ecf1ad4342584.mesh", "res://.godot/imported/fan-two.obj-9673b4c110bed2db447ecf1ad4342584.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

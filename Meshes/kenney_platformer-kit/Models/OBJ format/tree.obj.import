@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cnr2e2kdx7d58"
+path="res://.godot/imported/tree.obj-4ec84fe52ba1e1f8dd03c15fdd0c8730.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree.obj-4ec84fe52ba1e1f8dd03c15fdd0c8730.mesh"]
+
+source_file="res://Meshes/kenney_platformer-kit/Models/OBJ format/tree.obj"
+dest_files=["res://.godot/imported/tree.obj-4ec84fe52ba1e1f8dd03c15fdd0c8730.mesh", "res://.godot/imported/tree.obj-4ec84fe52ba1e1f8dd03c15fdd0c8730.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

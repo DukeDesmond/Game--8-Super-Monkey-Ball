@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://l7u8dplefpa3"
+path="res://.godot/imported/marble-center-high.obj-fb6c9b3105a7e5934b6c6bc33a43bc33.mesh"
+
+[deps]
+
+files=["res://.godot/imported/marble-center-high.obj-fb6c9b3105a7e5934b6c6bc33a43bc33.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/marble-center-high.obj"
+dest_files=["res://.godot/imported/marble-center-high.obj-fb6c9b3105a7e5934b6c6bc33a43bc33.mesh", "res://.godot/imported/marble-center-high.obj-fb6c9b3105a7e5934b6c6bc33a43bc33.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

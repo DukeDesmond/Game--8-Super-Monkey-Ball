@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bahvkn7u7k4sc"
+path="res://.godot/imported/support-single-bottom.obj-75c515219a4c7cbe2ccdfe31a816d974.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-single-bottom.obj-75c515219a4c7cbe2ccdfe31a816d974.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/support-single-bottom.obj"
+dest_files=["res://.godot/imported/support-single-bottom.obj-75c515219a4c7cbe2ccdfe31a816d974.mesh", "res://.godot/imported/support-single-bottom.obj-75c515219a4c7cbe2ccdfe31a816d974.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

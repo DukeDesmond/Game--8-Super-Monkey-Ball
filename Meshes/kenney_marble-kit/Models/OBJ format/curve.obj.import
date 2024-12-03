@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dk0sbwwarl47m"
+path="res://.godot/imported/curve.obj-ef6cf9a09e696d53438a7b2ce2cdf90a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/curve.obj-ef6cf9a09e696d53438a7b2ce2cdf90a.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/curve.obj"
+dest_files=["res://.godot/imported/curve.obj-ef6cf9a09e696d53438a7b2ce2cdf90a.mesh", "res://.godot/imported/curve.obj-ef6cf9a09e696d53438a7b2ce2cdf90a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

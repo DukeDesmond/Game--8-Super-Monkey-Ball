@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bpvtsfxjqr2tl"
+path="res://.godot/imported/ramp-end-solid-a.obj-cdde7d52a05a71bc292c2c5e6abfca77.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ramp-end-solid-a.obj-cdde7d52a05a71bc292c2c5e6abfca77.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/ramp-end-solid-a.obj"
+dest_files=["res://.godot/imported/ramp-end-solid-a.obj-cdde7d52a05a71bc292c2c5e6abfca77.mesh", "res://.godot/imported/ramp-end-solid-a.obj-cdde7d52a05a71bc292c2c5e6abfca77.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c35cxl1n1ovkc"
+path="res://.godot/imported/block-snow-curve-low.obj-44a7bea4fae96bf6ae2b7156cd12353c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-curve-low.obj-44a7bea4fae96bf6ae2b7156cd12353c.mesh"]
+
+source_file="res://Meshes/kenney_platformer-kit/Models/OBJ format/block-snow-curve-low.obj"
+dest_files=["res://.godot/imported/block-snow-curve-low.obj-44a7bea4fae96bf6ae2b7156cd12353c.mesh", "res://.godot/imported/block-snow-curve-low.obj-44a7bea4fae96bf6ae2b7156cd12353c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

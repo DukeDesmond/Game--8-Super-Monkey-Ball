@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cx3ehn8n6ug4d"
+path="res://.godot/imported/block-snow-edge.obj-37d099d6b340d0bc7e3574620845d159.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-edge.obj-37d099d6b340d0bc7e3574620845d159.mesh"]
+
+source_file="res://Meshes/kenney_platformer-kit/Models/OBJ format/block-snow-edge.obj"
+dest_files=["res://.godot/imported/block-snow-edge.obj-37d099d6b340d0bc7e3574620845d159.mesh", "res://.godot/imported/block-snow-edge.obj-37d099d6b340d0bc7e3574620845d159.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

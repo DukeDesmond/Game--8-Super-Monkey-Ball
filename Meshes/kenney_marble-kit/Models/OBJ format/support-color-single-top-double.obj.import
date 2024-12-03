@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://uadqqo5rtn7i"
+path="res://.godot/imported/support-color-single-top-double.obj-e3c8072909675d0473ecef0bbce890e3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-color-single-top-double.obj-e3c8072909675d0473ecef0bbce890e3.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/support-color-single-top-double.obj"
+dest_files=["res://.godot/imported/support-color-single-top-double.obj-e3c8072909675d0473ecef0bbce890e3.mesh", "res://.godot/imported/support-color-single-top-double.obj-e3c8072909675d0473ecef0bbce890e3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

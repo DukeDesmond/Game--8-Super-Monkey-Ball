@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cslnwkdvs0u04"
+path="res://.godot/imported/bend-medium.obj-bbdd43111f62b26e024ba285f3ee604f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bend-medium.obj-bbdd43111f62b26e024ba285f3ee604f.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/bend-medium.obj"
+dest_files=["res://.godot/imported/bend-medium.obj-bbdd43111f62b26e024ba285f3ee604f.mesh", "res://.godot/imported/bend-medium.obj-bbdd43111f62b26e024ba285f3ee604f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

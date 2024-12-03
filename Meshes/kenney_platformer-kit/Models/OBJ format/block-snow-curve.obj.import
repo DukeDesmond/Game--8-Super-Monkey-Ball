@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chgj7hw7g4b1g"
+path="res://.godot/imported/block-snow-curve.obj-110a9daf1166aca11602ee4deb037112.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-snow-curve.obj-110a9daf1166aca11602ee4deb037112.mesh"]
+
+source_file="res://Meshes/kenney_platformer-kit/Models/OBJ format/block-snow-curve.obj"
+dest_files=["res://.godot/imported/block-snow-curve.obj-110a9daf1166aca11602ee4deb037112.mesh", "res://.godot/imported/block-snow-curve.obj-110a9daf1166aca11602ee4deb037112.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

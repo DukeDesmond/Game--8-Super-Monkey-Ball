@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c4v5c0om808io"
+path="res://.godot/imported/bomb.obj-95ad504785b6460f0de51e5fd3beef2c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bomb.obj-95ad504785b6460f0de51e5fd3beef2c.mesh"]
+
+source_file="res://Meshes/kenney_platformer-kit/Models/OBJ format/bomb.obj"
+dest_files=["res://.godot/imported/bomb.obj-95ad504785b6460f0de51e5fd3beef2c.mesh", "res://.godot/imported/bomb.obj-95ad504785b6460f0de51e5fd3beef2c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

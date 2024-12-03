@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cy8fev448gm"
+path="res://.godot/imported/support-color-four-middle.obj-329adaaaea5ef4a8ce20b2cc8e379068.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-color-four-middle.obj-329adaaaea5ef4a8ce20b2cc8e379068.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/support-color-four-middle.obj"
+dest_files=["res://.godot/imported/support-color-four-middle.obj-329adaaaea5ef4a8ce20b2cc8e379068.mesh", "res://.godot/imported/support-color-four-middle.obj-329adaaaea5ef4a8ce20b2cc8e379068.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

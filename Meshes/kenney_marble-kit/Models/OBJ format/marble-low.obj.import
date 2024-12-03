@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2i6tiggph7hs"
+path="res://.godot/imported/marble-low.obj-52129b39f166ecb93f957a96739ee911.mesh"
+
+[deps]
+
+files=["res://.godot/imported/marble-low.obj-52129b39f166ecb93f957a96739ee911.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/marble-low.obj"
+dest_files=["res://.godot/imported/marble-low.obj-52129b39f166ecb93f957a96739ee911.mesh", "res://.godot/imported/marble-low.obj-52129b39f166ecb93f957a96739ee911.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,35 @@
+[gd_scene load_steps=7 format=3 uid="uid://2fmgc6d28ukd"]
+
+[ext_resource type="Script" path="res://Scripts/player.gd" id="1_grisf"]
+[ext_resource type="Texture2D" uid="uid://b51e6t3yt2atx" path="res://icon.svg" id="2_gsgbk"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_qvr4t"]
+friction = 4.0
+rough = true
+bounce = 0.5
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_02k4m"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_5t217"]
+albedo_texture = ExtResource("2_gsgbk")
+
+[sub_resource type="SphereMesh" id="SphereMesh_tu0wg"]
+material = SubResource("StandardMaterial3D_5t217")
+
+[node name="Player" type="RigidBody3D" groups=["Player"]]
+mass = 100.0
+physics_material_override = SubResource("PhysicsMaterial_qvr4t")
+angular_damp = 1.0
+script = ExtResource("1_grisf")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("SphereShape3D_02k4m")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("SphereMesh_tu0wg")
+
+[node name="Pivot" type="Marker3D" parent="."]
+
+[node name="Camera3D" type="Camera3D" parent="Pivot"]
+transform = Transform3D(1, 0, 0, 0, 0.906308, 0.422618, 0, -0.422618, 0.906308, 0, 2.5, 3.15)
+current = true

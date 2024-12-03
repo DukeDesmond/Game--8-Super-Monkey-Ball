@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmnt1kxvyk0ev"
+path="res://.godot/imported/ramp-start-solid-a.obj-51478f32941d61141a6b8d5e304f4c3f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ramp-start-solid-a.obj-51478f32941d61141a6b8d5e304f4c3f.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/ramp-start-solid-a.obj"
+dest_files=["res://.godot/imported/ramp-start-solid-a.obj-51478f32941d61141a6b8d5e304f4c3f.mesh", "res://.godot/imported/ramp-start-solid-a.obj-51478f32941d61141a6b8d5e304f4c3f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

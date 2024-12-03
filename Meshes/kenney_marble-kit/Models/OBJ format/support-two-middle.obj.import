@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cksflr4wjb5dd"
+path="res://.godot/imported/support-two-middle.obj-b5d93303a185cf2a5b5ce7da263262f3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-two-middle.obj-b5d93303a185cf2a5b5ce7da263262f3.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/support-two-middle.obj"
+dest_files=["res://.godot/imported/support-two-middle.obj-b5d93303a185cf2a5b5ce7da263262f3.mesh", "res://.godot/imported/support-two-middle.obj-b5d93303a185cf2a5b5ce7da263262f3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

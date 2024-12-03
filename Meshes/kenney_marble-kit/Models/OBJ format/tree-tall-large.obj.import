@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://l04c7c03kvde"
+path="res://.godot/imported/tree-tall-large.obj-10c27712e474903469e76658ff344150.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree-tall-large.obj-10c27712e474903469e76658ff344150.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/tree-tall-large.obj"
+dest_files=["res://.godot/imported/tree-tall-large.obj-10c27712e474903469e76658ff344150.mesh", "res://.godot/imported/tree-tall-large.obj-10c27712e474903469e76658ff344150.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

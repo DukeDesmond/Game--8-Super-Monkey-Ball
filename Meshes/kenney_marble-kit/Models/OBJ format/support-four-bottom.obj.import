@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hl6hkc66q2ya"
+path="res://.godot/imported/support-four-bottom.obj-942361b624d4d81796edb66e317291e8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-four-bottom.obj-942361b624d4d81796edb66e317291e8.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/support-four-bottom.obj"
+dest_files=["res://.godot/imported/support-four-bottom.obj-942361b624d4d81796edb66e317291e8.mesh", "res://.godot/imported/support-four-bottom.obj-942361b624d4d81796edb66e317291e8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

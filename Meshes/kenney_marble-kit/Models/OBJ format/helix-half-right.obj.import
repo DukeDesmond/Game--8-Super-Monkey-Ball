@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cxvcx5u8mom14"
+path="res://.godot/imported/helix-half-right.obj-9ef57ffde4c59c7b20805ac987527b30.mesh"
+
+[deps]
+
+files=["res://.godot/imported/helix-half-right.obj-9ef57ffde4c59c7b20805ac987527b30.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/helix-half-right.obj"
+dest_files=["res://.godot/imported/helix-half-right.obj-9ef57ffde4c59c7b20805ac987527b30.mesh", "res://.godot/imported/helix-half-right.obj-9ef57ffde4c59c7b20805ac987527b30.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

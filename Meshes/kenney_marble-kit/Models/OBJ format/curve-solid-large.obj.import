@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c0ncdfoepl0xw"
+path="res://.godot/imported/curve-solid-large.obj-8cad41126dd7ff44fc595100d56326b6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/curve-solid-large.obj-8cad41126dd7ff44fc595100d56326b6.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/curve-solid-large.obj"
+dest_files=["res://.godot/imported/curve-solid-large.obj-8cad41126dd7ff44fc595100d56326b6.mesh", "res://.godot/imported/curve-solid-large.obj-8cad41126dd7ff44fc595100d56326b6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

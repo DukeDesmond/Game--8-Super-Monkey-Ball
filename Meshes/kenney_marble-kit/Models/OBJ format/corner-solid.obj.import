@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bwxreoljqw3hp"
+path="res://.godot/imported/corner-solid.obj-81d44a44b4edc3d337cc29c5e90d920b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/corner-solid.obj-81d44a44b4edc3d337cc29c5e90d920b.mesh"]
+
+source_file="res://Meshes/kenney_marble-kit/Models/OBJ format/corner-solid.obj"
+dest_files=["res://.godot/imported/corner-solid.obj-81d44a44b4edc3d337cc29c5e90d920b.mesh", "res://.godot/imported/corner-solid.obj-81d44a44b4edc3d337cc29c5e90d920b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
